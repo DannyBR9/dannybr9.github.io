@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Edificios de Guayaquil
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
@@ -58,3 +58,4 @@
             labelContainer.childNodes[i].innerHTML = classPrediction;
         }
     }
+</script>
