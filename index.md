@@ -58,4 +58,3 @@
             labelContainer.childNodes[i].innerHTML = classPrediction;
         }
     }
-</script>
