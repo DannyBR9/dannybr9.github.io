@@ -1,4 +1,4 @@
-## Edificios de Guayaquil
+## Danny Baque
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
